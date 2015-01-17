@@ -4,7 +4,7 @@ Donate link: http://webcodingplace.com/contact-us/
 Tags: image, caption, widget, hover, css3, responsive, theme, thumbnail, sidebar, easy, simple, footer, image caption, upload, library, styles
 Requires at least: 3.5
 Tested up to: 4.1
-Stable tag: 1.2.0
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,12 +12,14 @@ This is a simplest plugin to add responsive images with caption in widget areas.
 
 == Description ==
 
-Add images in widget areas with caption. There are different hover styles available for caption.
+Add images in widget areas with caption including awesome css3 hover effects.
 
 <h3>Features</h3>
 <ol>
+	<li>Translation Ready</li>
+	<li>Image Preview in Widget</li>
 	<li>Responsive Image</li>
-	<li>Use from library</li>
+	<li>Use from Media</li>
 	<li>Upload from PC</li>
 	<li>Caption Heading</li>
 	<li>Caption External Link</li>
