@@ -43,7 +43,6 @@ Add images in widget areas with caption including awesome css3 hover effects.
 
 == Upgrade Notice ==
 
-= 2.0 =
 * Now 100% Responsive.
 * Widget preview bug fixed.
 * Multiple images conflict fixed.
