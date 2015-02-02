@@ -41,8 +41,19 @@ Add images in widget areas with caption including awesome css3 hover effects.
 
 1. Easy to use interface.
 
+== Changelog ==
+
+= 2.0 =
+* Now 100% Responsive.
+* Widget preview bug fixed.
+* Multiple images conflict fixed.
+* Title will show also with the link.
+* Auto width, height of caption as of image
+* New media uploader added
+
 == Upgrade Notice ==
 
+= 2.0 =
 * Now 100% Responsive.
 * Widget preview bug fixed.
 * Multiple images conflict fixed.
