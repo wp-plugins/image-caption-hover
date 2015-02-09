@@ -21,8 +21,6 @@ Add images in widget areas with caption including awesome css3 hover effects.
 	<li>Responsive Image</li>
 	<li>Use from Media</li>
 	<li>Upload from PC</li>
-	<li>Caption Heading</li>
-	<li>Caption External Link</li>
 	<li>CSS3 Hover Styles</li>
 	<li>Easy to use</li>
 </ol>
@@ -40,6 +38,8 @@ Add images in widget areas with caption including awesome css3 hover effects.
 == Screenshots ==
 
 1. Easy to use interface.
+2. Image Without Hover.
+3. Image With Hover.
 
 == Changelog ==
 

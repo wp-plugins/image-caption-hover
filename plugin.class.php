@@ -124,8 +124,8 @@ class Image_Caption_Hover_Widget extends WP_Widget {
 	<p>
 		<label for="<?php echo $this->get_field_id('imagestyle'); ?>"><?php _e( 'Hover style', 'image-caption-hover' ); ?>: </label>
 		<select class="widefat" name="<?php echo $this->get_field_name('imagestyle'); ?>">
-			<option value="slide-top-to-bottom"<?php if($imagestyle == 'slide-top-to-bottom'){echo 'selected';} ?>><?php _e( 'Slide top to bottom', 'image-caption-hover' ); ?></option>
-			<option value="slide-bottom-to-top" <?php if($imagestyle == 'slide-bottom-to-top'){echo 'selected';} ?>><?php _e( 'Slide bottom to top', 'image-caption-hover' ); ?></option>
+			<option value="slide-top-to-bottom"<?php if($imagestyle == 'slide-top-to-bottom'){echo 'selected';} ?>><?php _e( 'Slide bottom to top', 'image-caption-hover' ); ?></option>
+			<option value="slide-bottom-to-top" <?php if($imagestyle == 'slide-bottom-to-top'){echo 'selected';} ?>><?php _e( 'Slide top to bottom', 'image-caption-hover' ); ?></option>
 			<option value="slide-left-to-right" <?php if($imagestyle == 'slide-left-to-right'){echo 'selected';} ?>><?php _e( 'Slide left to right', 'image-caption-hover' ); ?></option>
 			<option value="slide-right-to-left" <?php if($imagestyle == 'slide-right-to-left'){echo 'selected';} ?>><?php _e( 'Slide right to left', 'image-caption-hover' ); ?></option>
 		</select>
