@@ -3,7 +3,7 @@
  * Plugin Name: Image Caption Hover
  * Plugin URI: http://webcodingplace.com/image-caption-hover/
  * Description: A simple way to add responsive images in widgets with caption.
- * Version: 2.0
+ * Version: 3.0
  * Author: Rameez
  * Author URI: http://webcodingplace.com/
  * License: GPLv2 or later
