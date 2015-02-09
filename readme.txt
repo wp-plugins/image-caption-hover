@@ -8,7 +8,7 @@ Stable tag: 3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This is a simplest plugin to add responsive images with caption in widget areas.
+Simple plugin to add responsive images with caption in widget areas.
 
 == Description ==
 
@@ -23,6 +23,14 @@ Add images in widget areas with caption including awesome css3 hover effects.
 	<li>Upload from PC</li>
 	<li>CSS3 Hover Styles</li>
 	<li>Easy to use</li>
+</ol>
+
+<h3>Caption Styles</h3>
+<ol>
+	<li>Top to bottom</li>
+	<li>Bottom to top</li>
+	<li>Left to right</li>
+	<li>Right to left</li>
 </ol>
 
 == Installation ==
