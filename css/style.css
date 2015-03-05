@@ -1,0 +1,89 @@
+.wcp-caption-plugin {
+    margin: 5px 0;
+}
+.wcp-caption-plugin .image-caption-box {   
+    cursor: pointer;
+    position: relative;  
+    overflow: hidden;
+    width: 100%;
+} 
+  
+.wcp-caption-plugin .image-caption-box img {  
+    position: absolute;  
+    left: 0;  
+    -webkit-transition: all 300ms ease-out;  
+    -moz-transition: all 300ms ease-out;  
+    -o-transition: all 300ms ease-out;  
+    -ms-transition: all 300ms ease-out;  
+    transition: all 300ms ease-out;
+    max-width: 100% !important;
+} 
+
+.wcp-caption-plugin .image-caption-box .caption {  
+    background-color: rgba(0,0,0,0.5);  
+    position: absolute;  
+    color: #fff;  
+    z-index: 100;  
+    -webkit-transition: all 300ms ease-out;  
+    -moz-transition: all 300ms ease-out;  
+    -o-transition: all 300ms ease-out;  
+    -ms-transition: all 300ms ease-out;  
+    transition: all 300ms ease-out;  
+    height: auto;
+} 
+
+/* ----------------------- Image Caption Hover Styles ----------------------- */
+
+.wcp-caption-plugin .image-caption-box .slide-top-to-bottom {  
+    display: block;  
+    bottom: -100%;   
+}
+
+.wcp-caption-plugin .image-caption-box:hover .slide-top-to-bottom {  
+    -moz-transform: translateY(-100%);  
+    -o-transform: translateY(-100%);  
+    -webkit-transform: translateY(-100%);  
+    transform: translateY(-100%);  
+} 
+
+/* ----------------------- Image Caption Hover Styles ----------------------- */
+
+.wcp-caption-plugin .image-caption-box .slide-bottom-to-top {  
+    display: block;
+    top: -100%;
+}
+
+.wcp-caption-plugin .image-caption-box:hover .slide-bottom-to-top {  
+    -moz-transform: translateY(100%);  
+    -o-transform: translateY(100%);  
+    -webkit-transform: translateY(100%);  
+    transform: translateY(100%);  
+} 
+
+/* ----------------------- Image Caption Hover Styles ----------------------- */
+
+.wcp-caption-plugin .image-caption-box .slide-left-to-right {  
+    display: block;
+    left: -100%;
+}
+
+.wcp-caption-plugin .image-caption-box:hover .slide-left-to-right {  
+    -moz-transform: translateX(100%);  
+    -o-transform: translateX(100%);  
+    -webkit-transform: translateX(100%);  
+    transform: translateX(100%);  
+}
+
+/* ----------------------- Image Caption Hover Styles ----------------------- */
+
+.wcp-caption-plugin .image-caption-box .slide-right-to-left {  
+    display: block;
+    right: -100%;
+}
+
+.wcp-caption-plugin .image-caption-box:hover .slide-right-to-left {  
+    -moz-transform: translateX(-100%);  
+    -o-transform: translateX(-100%);  
+    -webkit-transform: translateX(-100%);  
+    transform: translateX(-100%);  
+}
