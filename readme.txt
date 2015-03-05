@@ -13,6 +13,7 @@ Simple plugin to add responsive images with caption in widget areas.
 == Description ==
 
 Add images in widget areas with caption including awesome css3 hover effects.
+<a href="http://webcodingplace.com/image-caption-hover/">Demo Here</a>
 
 <h3>Features</h3>
 <ol>
