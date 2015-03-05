@@ -10,5 +10,5 @@ jQuery(document).ready(function($) {
 				'height': current_height
 			});
 		});	
-	}, 20);
+	}, 500);
 });
