@@ -13,7 +13,9 @@ Simple plugin to add responsive images with caption in widget areas.
 == Description ==
 
 Add images in widget areas with caption including awesome css3 hover effects.
-<a href="http://webcodingplace.com/image-caption-hover/">Demo Here</a>
+<a href="http://webcodingplace.com/image-caption-hover/">Demo Here</a><br>
+Pro Demo <a href="http://webcodingplace.com/image-caption-hover-pro-demo/">here</a><br>
+Get pro <a href="http://webcodingplace.com/product/image-caption-hover-pro/">here</a>
 
 <h3>Features</h3>
 <ol>
@@ -25,14 +27,35 @@ Add images in widget areas with caption including awesome css3 hover effects.
 	<li>CSS3 Hover Styles</li>
 	<li>Easy to use</li>
 	<li>100% Responsive for every Device and Browser</li>
+	<li>Change Caption Background Color (Pro)</li>
+	<li>Change Caption Background Opacity (Pro)</li>
+	<li>Change Caption Text Color (Pro)</li>
 </ol>
 
-<h3>Caption Styles (Free Version)</h3>
+<h3>Caption Styles</h3>
 <ol>
 	<li>Top to bottom</li>
 	<li>Bottom to top</li>
 	<li>Left to right</li>
 	<li>Right to left</li>
+	<li>Image flip up (Pro)</li>
+	<li>Image flip down (Pro)</li>
+	<li>Image flip right (Pro)</li>
+	<li>Image flip Left (Pro)</li>
+	<li>Rotate image (Pro)</li>
+	<li>Image turn around (Pro)</li>
+	<li>Zoom in (Pro)</li>
+	<li>Image tilt (Pro)</li>
+	<li>Morph (Pro)</li>
+	<li>Move image right (Pro)</li>
+	<li>Move image left (Pro)</li>
+	<li>Move image top (Pro)</li>
+	<li>Move image bottom (Pro)</li>
+	<li>Image squeez right (Pro)</li>
+	<li>Image squeez left (Pro)</li>
+	<li>Image squeez top (Pro)</li>
+	<li>Image squeez bottom (Pro)</li>
+	<li>More coming... (Pro)</li>
 </ol>
 
 == Installation ==
