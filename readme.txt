@@ -4,7 +4,7 @@ Donate link: http://webcodingplace.com/contact-us/
 Tags: image, caption, widget, hover, css3, responsive, theme, thumbnail, sidebar, easy, simple, footer, image caption, upload, library, styles
 Requires at least: 3.5
 Tested up to: 4.1
-Stable tag: 3.1
+Stable tag: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
