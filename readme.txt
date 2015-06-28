@@ -1,6 +1,6 @@
 === Image Caption Hover ===
 Contributors: Rameez_Iqbal
-Donate link: http://webcodingplace.com/contact-us/
+Donate link: https://www.2checkout.com/checkout/purchase?sid=202485641&quantity=1&product_id=1
 Tags: image, caption, widget, hover, css3, responsive, theme, thumbnail, sidebar, easy, simple, footer, image caption, upload, library, styles
 Requires at least: 3.5
 Tested up to: 4.2.2
