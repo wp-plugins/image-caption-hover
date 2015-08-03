@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Caption Hover\n"
+"POT-Creation-Date: 2015-06-21 12:56+0500\n"
+"PO-Revision-Date: 2015-06-21 13:08+0500\n"
+"Last-Translator: \n"
+"Language-Team: WebCodingPlace <rameez.iqbal@live.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\image-caption-hover-pro\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:54
+msgid "Image Caption Hover Settings"
+msgstr "Bildunterschrift Hover-Einstellungen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:54
+msgid "Need Help"
+msgstr "Brauche Hilfe"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:62
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:174
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:69
+msgid "Image"
+msgstr "Bild"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:65
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:177
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:70
+msgid "Paste URL or use from Media"
+msgstr "Paste URL oder der Nutzung von Medien"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:69
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:181
+msgid "Select Image"
+msgstr "Bild auswählen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:70
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:182
+msgid "Select"
+msgstr "wählen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:70
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:182
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:77
+msgid "Media"
+msgstr "Medien"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:73
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:185
+msgid "Use media to upload image"
+msgstr "Verwenden Sie Medien, um Bild hochladen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:77
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:189
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:83
+msgid "Title"
+msgstr "Titel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:82
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:194
+msgid "It will be used as title attribute of image tag"
+msgstr "Es wird als Titel-Attribut des Image-Tag verwendet werden"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:86
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:198
+msgid "Alternate Text"
+msgstr "Alternativtext"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:91
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:203
+msgid "It will be used as alt attribute of image tag"
+msgstr "Es wird als alt-Attribut der Image-Tag verwendet werden"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:95
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:207
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:101
+msgid "Caption"
+msgstr "Bildunterschrift"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:98
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:210
+msgid "Caption Text (HTML tags can be used)"
+msgstr "Caption Text (HTML-Tags verwendet werden kann)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:100
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:212
+msgid "Caption Alignment"
+msgstr "caption Alignment"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:103
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:215
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:113
+msgid "Auto"
+msgstr "auto"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:104
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:216
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:114
+msgid "Center"
+msgstr "Center"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:105
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:217
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:115
+msgid "Right"
+msgstr "Recht"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:106
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:218
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:116
+msgid "Left"
+msgstr "links"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:107
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:219
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:117
+msgid "Justify"
+msgstr "rechtfertigen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:112
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:224
+msgid "Caption Background Color"
+msgstr "Caption Hintergrundfarbe"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:114
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:226
+msgid "Caption Text Color"
+msgstr "Caption Text Color"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:118
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:230
+msgid "Background Opacity"
+msgstr "Hintergrund Deckkraft"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:120
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:232
+msgid "Title (for your reference)"
+msgstr "Titel (zu Ihrer Information)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:124
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:236
+msgid "Hover"
+msgstr "schweben"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:127
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:239
+msgid "Hover Style"
+msgstr "Hover Stil"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:130
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:242
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:141
+msgid "Slide left to right"
+msgstr "Slide links nach rechts"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:131
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:243
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:142
+msgid "Slide right to left"
+msgstr "Schieben Sie rechts nach links"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:132
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:244
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:143
+msgid "Slide bottom to top"
+msgstr "Schieben Sie unten nach oben"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:133
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:245
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:144
+msgid "Slide top to bottom"
+msgstr "Schieben Sie oben nach unten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:134
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:246
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:145
+msgid "Image flip up"
+msgstr "Bild klappen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:135
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:247
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:146
+msgid "Image flip down"
+msgstr "Bild nach unten zu kippen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:136
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:248
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:147
+msgid "Image flip right"
+msgstr "Bilddrehung rechts"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:137
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:249
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:148
+msgid "Image flip left"
+msgstr "Bilddrehung nach links"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:138
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:250
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:149
+msgid "Rotate image down"
+msgstr "Bild drehen nach unten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:139
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:251
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:150
+msgid "Image turn around"
+msgstr "Bild umdrehen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:140
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:252
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:151
+msgid "Zoom in"
+msgstr "hineinzoomen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:141
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:253
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:152
+msgid "Image tilt"
+msgstr "Bildneigungs"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:142
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:254
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:153
+msgid "Morph"
+msgstr "Morph"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:143
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:255
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:154
+msgid "Move image right"
+msgstr "Image Nach rechts"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:144
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:256
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:155
+msgid "Move image left"
+msgstr "Bild nach links"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:145
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:257
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:156
+msgid "Move image top"
+msgstr "Bild in Top-"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:146
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:258
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:157
+msgid "Move image bottom"
+msgstr "Verschieben Bild unten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:147
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:259
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:158
+msgid "Image squeez right"
+msgstr "Bild-Schere rechts"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:148
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:260
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:159
+msgid "Image squeez left"
+msgstr "Bild Squeeze links"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:149
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:261
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:160
+msgid "Image squeez top"
+msgstr "Bild Squeeze top"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:150
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:262
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:161
+msgid "Image squeez bottom"
+msgstr "Bild Squeeze unten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:154
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:266
+msgid "Choose hover style"
+msgstr "Wählen Sie Hover-Stil"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:158
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:270
+msgid "Preview"
+msgstr "Vorschau"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:159
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:271
+msgid "Refresh Preview"
+msgstr "Vorschau aktualisieren"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:164
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:277
+msgid "Delete"
+msgstr "löschen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:165
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:278
+msgid "Duplicate"
+msgstr "Duplikat"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:166
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:279
+msgid "Add New"
+msgstr "In New"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:167
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:280
+msgid "Get Shortcode"
+msgstr "Holen Sie Kurzwahl"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:172
+msgid "Image Caption Hover"
+msgstr "Bildunterschrift Hover"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:287
+msgid "Save Changes"
+msgstr "Änderungen Speichern"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/plugin.class.php:289
+msgid "Changes Saved"
+msgstr "Änderungen Gespeichert"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:92
+msgid "Alt"
+msgstr "Alt"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:103
+msgid "You can also use HTML tags here"
+msgstr "Sie können HTML-Tags auch hier verwenden"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:111
+msgid "Caption alignment"
+msgstr "caption Ausrichtung"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:121
+msgid "Caption background color:"
+msgstr "Caption Hintergrundfarbe:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:126
+msgid "Caption background opacity:"
+msgstr "Caption Hintergrund Deckkraft:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:131
+msgid "Caption text color:"
+msgstr "Caption Textfarbe:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:135
+msgid "Hover styles"
+msgstr "Hover Arten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\image-caption-hover-pro/widget.php:139
+msgid "Hover style"
+msgstr "Hover style"
