@@ -4,7 +4,7 @@ Donate link: https://www.2checkout.com/checkout/purchase?sid=202485641&quantity=
 Tags: image, caption, widget, hover, css3, responsive, theme, thumbnail, sidebar, easy, simple, footer, image caption, upload, library, styles, wpml, multi language, i10n, i18n, german, french
 Requires at least: 3.5
 Tested up to: 4.2.3
-Stable tag: 5.1
+Stable tag: 5.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -83,6 +83,9 @@ Add images in widget areas and pages, posts with caption including awesome css3 
 3. Image With Hover.
 
 == Changelog ==
+
+= 5.3 =
+* Bug Fixed: Preview in admin is now same as actual
 
 = 5.2 =
 * Bug Fixed: Now use links and raw HTML in Caption Box
