@@ -1,0 +1,369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Caption Hover 5.5\n"
+"POT-Creation-Date: 2015-08-25 12:34+0500\n"
+"PO-Revision-Date: 2015-09-02 17:04+0500\n"
+"Last-Translator: \n"
+"Language-Team: WebCodingPlace <rameez.iqbal@live.com>\n"
+"Language: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\5.5\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:54
+msgid "Image Caption Hover Settings"
+msgstr "Bildunterschrift Hover-Einstellungen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:54
+msgid "Get Pro version with 60+ hover effects only for $20"
+msgstr "Holen Sie sich Pro-Version mit 60 + Hover-Effekte nur für $10"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:62
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:183
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:69
+msgid "Image"
+msgstr "Image"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:65
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:186
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:70
+msgid "Paste URL or use from Media"
+msgstr "Paste URL oder der Nutzung von Medien"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:69
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:190
+msgid "Select Image"
+msgstr "Bild auswählen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:70
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:191
+msgid "Select"
+msgstr "Auswählen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:70
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:191
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:77
+msgid "Media"
+msgstr "Medien"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:73
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:194
+msgid "Use media to upload image"
+msgstr "Verwenden Sie Medien, um Bild hochladen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:77
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:198
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:83
+msgid "Title"
+msgstr "Titel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:82
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:203
+msgid "It will be used as title attribute of image tag"
+msgstr "Es wird als Titel-Attribut des Image-Tag verwendet werden"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:86
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:207
+msgid "Alternate Text"
+msgstr "Alternativtext"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:91
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:212
+msgid "It will be used as alt attribute of image tag"
+msgstr "Es wird als alt-Attribut der Image-Tag verwendet werden"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:95
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:216
+msgid "iLightBox Shortcode"
+msgstr "iLightBox Short"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:100
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:221
+msgid "Eg: [ilightbox id=\"7\"]"
+msgstr "ZB: [ilightbox id=7]"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:104
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:225
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:101
+msgid "Caption"
+msgstr "Bildunterschrift"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:107
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:228
+msgid "Caption Text (HTML tags can be used)"
+msgstr "Beschriftungstext (HTML-Tags verwendet werden kann)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:109
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:230
+msgid "Caption Alignment"
+msgstr "Caption Alignment"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:112
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:233
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:113
+msgid "Auto"
+msgstr "Auto"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:113
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:234
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:114
+msgid "Center"
+msgstr "Zentrum"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:114
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:235
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:115
+msgid "Right"
+msgstr "Recht"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:115
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:236
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:116
+msgid "Left"
+msgstr "links"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:116
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:237
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:117
+msgid "Justify"
+msgstr "rechtfertigen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:121
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:242
+msgid "Caption Background Color"
+msgstr "Caption Hintergrundfarbe"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:123
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:244
+msgid "Caption Text Color"
+msgstr "Caption Text Color"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:127
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:248
+msgid "Background Opacity"
+msgstr "Hintergrund Deckkraft"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:129
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:250
+msgid "Title (for your reference)"
+msgstr "Titel (zu Ihrer Information)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:133
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:254
+msgid "Hover"
+msgstr "Schweben"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:136
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:257
+msgid "Hover Style"
+msgstr "Hover Stil"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:139
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:260
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:141
+msgid "Slide left to right"
+msgstr "Slide links nach rechts"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:140
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:261
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:142
+msgid "Slide right to left"
+msgstr "Schieben Sie rechts nach links"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:141
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:262
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:143
+msgid "Slide bottom to top"
+msgstr "Schieben Sie unten nach oben"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:142
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:263
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:144
+msgid "Slide top to bottom"
+msgstr "Schieben Sie oben nach unten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:143
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:264
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:145
+msgid "Image flip up"
+msgstr "Bild klappen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:144
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:265
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:146
+msgid "Image flip down"
+msgstr "Bild nach unten zu kippen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:145
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:266
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:147
+msgid "Image flip right"
+msgstr "Bilddrehung rechts"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:146
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:267
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:148
+msgid "Image flip left"
+msgstr "Bilddrehung nach links"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:147
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:268
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:149
+msgid "Rotate image down"
+msgstr "Bild drehen nach unten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:148
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:269
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:150
+msgid "Image turn around"
+msgstr "Bild umdrehen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:149
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:270
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:151
+msgid "Zoom in"
+msgstr "Hineinzoomen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:150
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:271
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:152
+msgid "Image tilt"
+msgstr "Bild Neigungs"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:151
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:272
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:153
+msgid "Morph"
+msgstr "Morph"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:152
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:273
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:154
+msgid "Move image right"
+msgstr "Bild in der rechten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:153
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:274
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:155
+msgid "Move image left"
+msgstr "Bild nach links"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:154
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:275
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:156
+msgid "Move image top"
+msgstr "Bild in Top-"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:155
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:276
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:157
+msgid "Move image bottom"
+msgstr "Verschieben Bild unten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:156
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:277
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:158
+msgid "Image squeez right"
+msgstr "Bild squeez rechts"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:157
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:278
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:159
+msgid "Image squeez left"
+msgstr "Bild squeez links"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:158
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:279
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:160
+msgid "Image squeez top"
+msgstr "Bild squeez top"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:159
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:280
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:161
+msgid "Image squeez bottom"
+msgstr "Bild squeez unten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:163
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:284
+msgid "Choose hover style"
+msgstr "Wählen Sie Hover-Stil"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:167
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:288
+msgid "Preview"
+msgstr "Vorschau"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:168
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:289
+msgid "Refresh Preview"
+msgstr "Vorschau aktualisieren"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:173
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:295
+msgid "Delete"
+msgstr "löschen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:174
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:296
+msgid "Duplicate"
+msgstr "Duplikat"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:175
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:297
+msgid "Add New"
+msgstr "Neue hinzufügen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:176
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:298
+msgid "Get Shortcode"
+msgstr "Holen Sie Kurzwahl"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:181
+msgid "Image Caption Hover"
+msgstr "Bildunterschrift Hover"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:305
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/plugin.class.php:307
+msgid "Changes Saved"
+msgstr "Änderungen gespeichert"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:92
+msgid "Alt"
+msgstr "Alt"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:103
+msgid "You can also use HTML tags here"
+msgstr "Sie können HTML-Tags auch hier verwenden"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:111
+msgid "Caption alignment"
+msgstr "caption Ausrichtung"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:121
+msgid "Caption background color:"
+msgstr "Caption Hintergrundfarbe:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:126
+msgid "Caption background opacity:"
+msgstr "Caption Hintergrund Deckkraft:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:131
+msgid "Caption text color:"
+msgstr "Beschriftungstext Farbe:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:135
+msgid "Hover styles"
+msgstr "Hover Arten"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\5.5/widget.php:139
+msgid "Hover style"
+msgstr "Hover-Stil"
